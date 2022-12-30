@@ -10,7 +10,8 @@ website:
     background: "#000000"
     pinned: TRUE
     right:
-      - blog.qmd
+      - text: "Blog"
+        file: blog.qmd
       - icon: github
         href: https://github.com/
       - icon: rss
