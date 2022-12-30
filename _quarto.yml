@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Jeff Raker.xyz"
+  site-url: https://www.jeffraker.xyz
   description: "dérive: life adrift"
   navbar:
     background: "#000000"
