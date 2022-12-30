@@ -1,0 +1,15 @@
+---
+title: "Jeff Raker"
+image: jeff_profile.jpeg
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jeffrey-r-raker
+    - icon: github
+      text: Github
+      href: https://github.com/jraker01
+---
+
+Welcome to Jeff Raker's blog.

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jeff Raker.xyz"
+  description: "dérive: life adrift"
+  navbar:
+    background: "#000000"
+    pinned: TRUE
+    right:
+      - blog.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: rss
+        href: blog.xml
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+editor: visual
+
