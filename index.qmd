@@ -12,4 +12,4 @@ about:
       href: https://github.com/jraker01
 ---
 
-Click [here](blog.qmd) to read the latest post on [**dérive: life adrift**](blog.qmd).
+Click [here](blog.qmd) to read the latest post on [**dérive: life adrift**](blog.qmd)
