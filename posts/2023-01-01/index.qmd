@@ -1,5 +1,5 @@
 ---
-title: "The beginning..."
+title: "No new hobbies..."
 description: ""
 # author: "Jeffrey R. Raker"
 date: "2023-01-01"
